@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1098752687910",
+    "project_id": "instaclone-f94f1",
+    "storage_bucket": "instaclone-f94f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098752687910:android:06565a32de12baab5b8be7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098752687910-bfnnbja40kiiptb0lh4q84t0t2pfv32c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDaaKoU9TJ_s9Ant2du28y4HykWIjhyZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098752687910-bfnnbja40kiiptb0lh4q84t0t2pfv32c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098752687910:android:8be34aa808380c2a5b8be7",
+        "android_client_info": {
+          "package_name": "com.example.simple_firebase_todolist_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098752687910-bfnnbja40kiiptb0lh4q84t0t2pfv32c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDaaKoU9TJ_s9Ant2du28y4HykWIjhyZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098752687910-bfnnbja40kiiptb0lh4q84t0t2pfv32c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
