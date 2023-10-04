@@ -1,16 +1,7 @@
-# simple_firebase_todolist_app
+# Simple Firebase ToDo App
 
-A new Flutter project.
+Simple ToDo App with Firebase
 
-## Getting Started
+![1](https://github.com/BilalSevinc16/Simple_Firebase_ToDo_App/assets/146417248/8fe5d3ea-4138-4571-b4ee-465cc4a75a43)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Simple_Firebase_ToDo_App/assets/146417248/0003dd97-448b-4245-8200-0603f8a8192c)
